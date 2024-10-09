@@ -23,8 +23,8 @@ To install `dDojo`, clone the repository and run the installation script:
 git clone https://github.com/chahid001/DefectDojo-CLI
 cd DefectDojo-CLI
 bash install.sh
-
-## ⚙️ Usage:
+```
+## Usage ⚙️
 
 ```bash
 # Basic usage
